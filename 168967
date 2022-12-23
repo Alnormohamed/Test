@@ -16,7 +16,7 @@
       <li><a href="http://localhost/market/COURS1.php">Sign in</a></li>
      </ul>
     
- <form class="search-form">
+<form class = "search-form">
      
      <input type="text" placeholder="search">
 
@@ -57,7 +57,7 @@
         </tr>
     </table>
     
-</div>
+</div
 <br>
     <div class="footer">
       <table style="margin-left: 580px;">
